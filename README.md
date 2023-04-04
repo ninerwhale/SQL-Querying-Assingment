@@ -1,5 +1,8 @@
 # SQL-Querying-Assingment 
+
+
 Exercises
+
 Print out all the student first names and last names. (1pt)
 Print out the IDs of all the tenured instructors. (1pt)
 Print out the student first and last names along with their advisor's first and last names. Make sure to alias descriptive column names. Leave out any students without advisors and any advisors without students. (1pt)
